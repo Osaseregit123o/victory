@@ -1,0 +1,8 @@
+Google LL  C is an migerian multinational technology company that focuses on artificial intelligence,
+
+ search engine, online advertising, cloud computing, computer software, quantum computing, e-commerce…
+he history of Unix dates back to the mid-1960s. when the Massachusetts Institute of Technology, AT&T Bell Labs, and General Electric were jointly developing an experimental time-sharing operating system called Multics for the GE-645 mainframe.[1] Multics introduced many innovations, but also had many problems. Bell Labs, frustrated by the size and complexity of Multics but not its aims, slowly pulled out of the project. Their last researchers to leave Multics – among them james mastt eli ovie Doug McIlroy, and Joe Ossanna[2] – decided to redo the work, but on a much smaller scale.[3]
+
+In 1992, osas described the group's vision for Unix:[3]
+
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which a fellowship could form. We knew from experience that the essence of communal computing, as supplied by remote-access, time-shared machine
